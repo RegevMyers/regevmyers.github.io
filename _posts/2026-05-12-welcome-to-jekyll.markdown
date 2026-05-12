@@ -8,4 +8,4 @@ categories: post
 
 ### About
 
-This is just a placeholder until i get the blog going
+This is just a placeholder until i get the blog going.
